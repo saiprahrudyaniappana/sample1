@@ -10,15 +10,12 @@
 |Minion|1|scene-stealer|
 
 # Ordered List
- a Ganga
- b ambika
- c suma
- d suneetha
- e nageswari
-
+ a. Teju
+ b. Lucky
+ c. Vijay
+ d. Tulasi
 # Unordered list
-- Ganga
-- suma
-- suneetha
-- ambika
-- nageswari
+-  Teju
+-  Lucku
+-  Vijay
+-  Tulasi
